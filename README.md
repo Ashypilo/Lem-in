@@ -34,6 +34,34 @@ Lx-y Lz-w Lr-o ...
 x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y,
 w, o represents the rooms’ names.
 
+<b>The ant farm is defined by the following links:</b>
+number_of_ants
+##start
+1 23 3
+2 16 7
+#comment
+3 16 3
+4 16 5
+5 9 3
+6 1 5
+7 4 8
+##end
+0 9 5
+0-4
+0-6
+1-3
+4-3
+5-2
+3-5
+#another comment
+4-2
+2-1
+7-6
+7-2
+7-4
+6-5
+#another comment
+
 <b>Example:</b>
 [0]-[2]-[3]-[1]
 

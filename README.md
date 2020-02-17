@@ -66,7 +66,7 @@ make
 
 ./lem-in text_ferm.txt
 
-<b>Example:</b>
+<b>Example:</b><br>
 [0]-[2]-[3]-[1]<br>
 3<br>
 ##start<br>

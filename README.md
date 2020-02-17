@@ -23,28 +23,21 @@ the receiving end must be empty).
 
 • You must to display your results on the standard output in the following format:
 
-number_of_ants
-
-the_rooms
-
-the_links
-
-Lx-y Lz-w Lr-o ...
+number_of_ants<br>
+the_rooms<br>
+the_links<br>
+Lx-y Lz-w Lr-o ...<br>
 
 x, z, r represents the ants’ numbers (going from 1 to number_of_ants) and y,
 w, o represents the rooms’ names.
 
 <b>The ant farm is defined by the following links:</b>
 
-number_of_ants
-
-##start
-
-1 23 3
-
-2 16 7
-
-#comment
+number_of_ants<br>
+##start<br>
+1 23 3<br>
+2 16 7<br>
+#comment<br>
 
 3 16 3
 
